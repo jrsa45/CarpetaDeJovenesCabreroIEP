@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carpeta Cuerpo de Jovenes IEP Cabrero</title>
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body class="bg-light">
+    <div class="container-fluid">
+        <div class="row">
+            <!-- Barra lateral con índice -->
+            <div class="col-md-3 sidebar">
+                <img src="logo_2.png" alt="Logo de la Página" class="logo">
+                <h2 class="text-white">INDICE</h2>
+                <div class="input-group mb-3">
+                    <input type="text" class="form-control" id="searchInput" placeholder="Ejemplo de búsqueda: 99">
+                    <div class="input-group-append">
+                        <button class="btn btn-outline-secondary" type="button" onclick="searchMedia()">Buscar</button>
+                    </div>
+                </div>
+                <ul id="index-list" class="list-group"></ul>
+                <!-- Link de Descarga -->
+                <div class="mt-3">
+                    <h4 class="text-white">Descargar Carpeta Completa</h4>
+                    <a href="Zip/Carpeta Cuerpo de Jóvenes IEP Cabrero.zip" download="Carpeta Cuerpo de Jóvenes IEP Cabrero.zip" class="btn btn-primary">
+                        Descargar
+                    </a>
+                </div>
+            </div>
+
+            <!-- Contenido principal -->
+            <div class="col-md-9 main-content">
+                <h1 class="text-primary">Carpeta Cuerpo de Jovenes IEP Cabrero</h1>
+                <p>Para una mayor afinidad de ensayo, utilice audifonos puesto que, algunos de los audios contienen arreglos de 2 o 3 voces, las cuales estan configuradas de manera panorámica en donde las voces de acompañamiento se escuchan por el oido izquierdo y la melodia por el lado derecho</p>
+                <p>¡Dios le Bendiga!</p>
+                <div id="media-gallery" class="row"></div>
+            </div>
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+    <script src="index.js"></script>
+</body>
+</html>
