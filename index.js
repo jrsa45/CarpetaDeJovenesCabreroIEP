@@ -105,6 +105,9 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 98, name: 'N98 No temeré luchar por el Señor', image: 'Imagenes/N98notemere.jpg', audio: 'Audios/.mp3'},
         { id: 99, name: 'N99 Al despertar', image: 'Imagenes/N99aldespertar.jpg', audio: 'Audios/.mp3'},
         { id: 100, name: 'N100 Vaso de Barro', image: 'Imagenes/N100vasodebarro.jpg', audio: 'Audios/.mp3'},
+        { id: 101, name: 'N101 Mi Dios envio', image: 'Imagenes/N101midiosenvio.jpg', audio: 'Audios/.mp3'},
+        { id: 102, name: 'N100 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/.mp3'},
+
         // Agrega más archivos multimedia según sea necesario
     ];
 
