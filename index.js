@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 72, name: 'N72 Del cielo se apercibe', image: 'Imagenes/N72delcieloseapercibe.jpg', audio: 'Audios/N72delcieloseapercibe.mp3' },
         { id: 73, name: 'N73 Camino a Emaus', image: 'Imagenes/N73caminoaemaus.jpg', audio: 'Audios/N73caminoaemaus.mp3' },
         { id: 74, name: 'N74 Han pasado los meses y los años', image: 'Imagenes/N74hanpasadolosmeses.jpg', audio: 'Audios/.mp3' },
-        { id: 75, name: 'N75 Las dos huellas', image: 'Imagenes/N75lasdoshuellas.jpg', audio: 'Audios/.mp3' },
+        { id: 75, name: 'N75 Las dos huellas', image: 'Imagenes/N75lasdoshuellas.jpg', audio: 'Audios/N75lasdoshuellas.mp3' },
         { id: 76, name: 'N76 Como podré agradecer', image: 'Imagenes/N76comopodreagradecer.jpg', audio: 'Audios/.mp3' },
         { id: 77, name: 'N77 Hoy te siento Señor', image: 'Imagenes/N77hoytesientoseñor.jpg', audio: 'Audios/.mp3' },
         { id: 78, name: 'N78 En la noche sin fin', image: 'Imagenes/N78enlanochesinfin.jpg', audio: 'Audios/.mp3' },
@@ -98,15 +98,15 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 91, name: 'N91 Caminaba Jesús', image: 'Imagenes/N91caminabajesus.jpg', audio: 'Audios/.mp3' },
         { id: 92, name: 'N92 Señor haz de mi vida', image: 'Imagenes/N92señorhazdemivida.jpg', audio: 'Audios/.mp3' },
         { id: 93, name: 'N93 Donde esta el amor', image: 'Imagenes/N93dondeestaelamor.jpg', audio: 'Audios/.mp3' },
-        { id: 94, name: 'N94 Vagaba yo por el mundo', image: 'Imagenes/N94vagabayoporelmundo.jpg', audio: 'Audios/.mp3' },
-        { id: 95, name: 'N95 Un principe tenemos', image: 'Imagenes/N95unprincipetenemos.jpg', audio: 'Audios/.mp3' },
+        { id: 94, name: 'N94 Vagaba yo por el mundo', image: 'Imagenes/N94vagabayoporelmundo.jpg', audio: 'Audios/N94vagabayoporelmundo.mp3' },
+        { id: 95, name: 'N95 Un principe tenemos', image: 'Imagenes/N95unprincipetenemos.jpg', audio: 'Audios/N95unprincipetenemos.mp3' },
         { id: 96, name: 'N96 Una bendición', image: 'Imagenes/N96unabendicion.jpg', audio: 'Audios/.mp3' },
         { id: 97, name: 'N97 Contendamos Jóvenes por la fe', image: 'Imagenes/N97contendamosjovenes.jpg', audio: 'Audios/.mp3'},
         { id: 98, name: 'N98 No temeré luchar por el Señor', image: 'Imagenes/N98notemere.jpg', audio: 'Audios/.mp3'},
         { id: 99, name: 'N99 Al despertar', image: 'Imagenes/N99aldespertar.jpg', audio: 'Audios/.mp3'},
         { id: 100, name: 'N100 Vaso de Barro', image: 'Imagenes/N100vasodebarro.jpg', audio: 'Audios/.mp3'},
         { id: 101, name: 'N101 Mi Dios envio', image: 'Imagenes/N101midiosenvio.jpg', audio: 'Audios/.mp3'},
-        { id: 102, name: 'N100 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/.mp3'},
+        { id: 102, name: 'N102 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/.mp3'},
 
         // Agrega más archivos multimedia según sea necesario
     ];
