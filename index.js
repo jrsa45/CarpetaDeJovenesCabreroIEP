@@ -38,7 +38,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 31, name: 'N31 Agua Viva', image: 'Imagenes/N31aguaviva.jpg', audio: 'Audios/N31aguaviva.mp3' },
         { id: 32, name: 'N32 Tiernas Canciones', image: 'Imagenes/N32tiernascanciones.jpg', audio: 'Audios/N32tiernascanciones.mp3' },
         { id: 33, name: 'N33 Quisiera relatarles', image: 'Imagenes/N33quisierarelatarles.jpg', audio: 'Audios/N33quisierarelatarles.mp3' },
-        { id: 34, name: 'N34 Gloria Gloria Aleluya', image: 'Imagenes/N34gloriagloriaaleluya.jpg', audio: 'Audios/N34gloriagloriaaleluya.mp3' },
+        { id: 34, name: 'N34 Te Busqué', image: 'Imagenes/N34tebusque.jpg', audio: 'Audios/N34tebusque.mp3' },
         { id: 35, name: 'N35 En un mar profundo', image: 'Imagenes/N35enunmarprofundo.jpg', audio: 'Audios/N35enunmarprofundo.mp3' },
         { id: 36, name: 'N36 Como tu siervo Job', image: 'Imagenes/N36comotusiervojob.jpg', audio: 'Audios/N36comotusiervojob.mp3' },
         { id: 37, name: 'N37 No se por qué', image: 'Imagenes/N37noseporque.jpg', audio: 'Audios/N37noseporque.mp3' },
