@@ -87,7 +87,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 80, name: 'N80 Canta hermano canta', image: 'Imagenes/N80cantahermanocanta.jpg', audio: 'Audios/.mp3' },
         { id: 81, name: 'N81 Hoy te quiero alabar Señor', image: 'Imagenes/N81hoytequieroalabarseñor.jpg', audio: 'Audios/.mp3' },
         { id: 82, name: 'N82 Yo solo espero ese día', image: 'Imagenes/N82yosoloesperoesedia.jpg', audio: 'Audios/N82yosoloesperoesedia.mp3' },
-        { id: 83, name: 'N83 Oh Jovenes venid', image: 'Imagenes/N83ohjovenesvenid.jpg', audio: 'Audios/.mp3' },
+        { id: 83, name: 'N83 Oh Jovenes venid', image: 'Imagenes/N83ohjovenesvenid.jpg', audio: 'Audios/N83ohjovenesvenid.mp3' },
         { id: 84, name: 'N84 Siempre estuviste aqui', image: 'Imagenes/N84siempreestuvisteaqui.jpg', audio: 'Audios/.mp3' },
         { id: 85, name: 'N85 Un cielo nuevo', image: 'Imagenes/N85uncielonuevo.jpg', audio: 'Audios/.mp3' },
         { id: 86, name: 'N86 En esta noche Señor he comprendido', image: 'Imagenes/N86enestanocheseñor.jpg', audio: 'Audios/.mp3' },
@@ -107,6 +107,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 100, name: 'N100 Vaso de Barro', image: 'Imagenes/N100vasodebarro.jpg', audio: 'Audios/.mp3'},
         { id: 101, name: 'N101 Mi Dios envio', image: 'Imagenes/N101midiosenvio.jpg', audio: 'Audios/.mp3'},
         { id: 102, name: 'N102 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/.mp3'},
+        { id: 103, name: 'N103 No dejes pasar el Tiempo', image: 'Imagenes/N103nodejespasareltiempo.jpg', audio: 'Audios/.mp3'},
+        { id: 104, name: 'N102 Cuando anduve en caminos del mundo', image: 'Imagenes/N104cuandoanduveencaminosdelmundo.jpg', audio: 'Audios/.mp3'},
 
         // Agrega más archivos multimedia según sea necesario
     ];
