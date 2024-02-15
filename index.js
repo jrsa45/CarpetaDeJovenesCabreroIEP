@@ -103,12 +103,11 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 96, name: 'N96 Una bendición', image: 'Imagenes/N96unabendicion.jpg', audio: 'Audios/.mp3' },
         { id: 97, name: 'N97 Contendamos Jóvenes por la fe', image: 'Imagenes/N97contendamosjovenes.jpg', audio: 'Audios/.mp3'},
         { id: 98, name: 'N98 No temeré luchar por el Señor', image: 'Imagenes/N98notemere.jpg', audio: 'Audios/.mp3'},
-        { id: 99, name: 'N99 Al despertar', image: 'Imagenes/N99aldespertar.jpg', audio: 'Audios/.mp3'},
-        { id: 100, name: 'N100 Vaso de Barro', image: 'Imagenes/N100vasodebarro.jpg', audio: 'Audios/.mp3'},
-        { id: 101, name: 'N101 Mi Dios envio', image: 'Imagenes/N101midiosenvio.jpg', audio: 'Audios/.mp3'},
+        { id: 99, name: 'N99 Ya los campos blanco estan', image: 'Imagenes/N99yaloscamposblancoestan.jpg', audio: 'Audios/.mp3'},
+        { id: 100, name: 'N100 Luces de Gala', image: 'Imagenes/N100lucesdegala.jpg', audio: 'Audios/.mp3'},
+        { id: 101, name: 'N101 El buen Pastor', image: 'Imagenes/N101elbuenpastor.jpg', audio: 'Audios/.mp3'},
         { id: 102, name: 'N102 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/.mp3'},
         { id: 103, name: 'N103 No dejes pasar el Tiempo', image: 'Imagenes/N103nodejespasareltiempo.jpg', audio: 'Audios/.mp3'},
-        { id: 104, name: 'N102 Cuando anduve en caminos del mundo', image: 'Imagenes/N104cuandoanduveencaminosdelmundo.jpg', audio: 'Audios/.mp3'},
 
         // Agrega más archivos multimedia según sea necesario
     ];
