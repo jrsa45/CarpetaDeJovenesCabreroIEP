@@ -22,7 +22,7 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 15, name: 'N15 Que tiene tu Espíritu', image: 'Imagenes/N15quetienetuespiritu.jpg', audio: 'Audios/N15quetienetuespiritu.mp3' },
         { id: 16, name: 'N16 Huestes de Israel', image: 'Imagenes/N16huestesdeisrael.jpg', audio: 'Audios/N16huestesdeisrael.mp3' },
         { id: 17, name: 'N17 Alla en un lejano monte', image: 'Imagenes/N17allaenunlejanomonte.jpg', audio: 'Audios/N17allaenunlejanomonte.mp3' },
-        { id: 18, name: 'N18 Medley 1', image: 'Imagenes/N18medley.jpg', audio: 'path/to/N18medley1.mp3' },
+        { id: 18, name: 'N18 Medley 1', image: 'Imagenes/N18medley.jpg', audio: 'Audios/N18medley1.mp3' },
         { id: 19, name: 'N19 De Cristo cada día', image: 'Imagenes/N19decristocadadia.jpg', audio: 'Audios/N19decristocadadia.mp3' },
         { id: 20, name: 'N20 Dios no se equivoca', image: 'Imagenes/N20diosnoseequivoca.jpg', audio: 'Audios/N20diosnoseequivoca.mp3' },
         { id: 21, name: 'N21 Cristo yo creo en ti', image: 'Imagenes/N21cristoyocreoenti.jpg', audio: 'Audios/N21cristoyocreoenti.mp3' },
