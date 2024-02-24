@@ -108,6 +108,8 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 101, name: 'N101 El buen Pastor', image: 'Imagenes/N101elbuenpastor.jpg', audio: 'Audios/N101elbuenpastor.mp3'},
         { id: 102, name: 'N102 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/N102comopodervolver.mp3'},
         { id: 103, name: 'N103 No dejes pasar el Tiempo', image: 'Imagenes/N103nodejespasareltiempo.jpg', audio: 'Audios/103nodejespasareltiempo.mp3'},
+        { id: 104, name: 'N104 Medley 3', images: ['Imagenes/N104medley3.1.jpg', 'Imagenes/N104medley3.2.jpg'], audio: 'Audios/.mp3' },
+
 
         // Agrega más archivos multimedia según sea necesario
     ];
