@@ -109,6 +109,15 @@ document.addEventListener('DOMContentLoaded', () => {
         { id: 102, name: 'N102 Como poder volver', image: 'Imagenes/N102comopodervolver.jpg', audio: 'Audios/N102comopodervolver.mp3'},
         { id: 103, name: 'N103 No dejes pasar el Tiempo', image: 'Imagenes/N103nodejespasareltiempo.jpg', audio: 'Audios/103nodejespasareltiempo.mp3'},
         { id: 104, name: 'N104 Medley 3', image: 'Imagenes/N104medley3.jpg', audio: 'Audios/N104medley3.mp3' },
+        { id: 105, name: 'N105 Quien toco mi manto', image: 'Imagenes/N105quientocomimanto.jpg', audio: 'Audios/.mp3' },
+        { id: 106, name: 'N106 Yo soy un pobre peregrino', image: 'Imagenes/N106yosoyunpobreperegrino.jpg', audio: 'Audios/.mp3' },
+        { id: 107, name: 'N107 Quiero llevarle la Gloria', image: 'Imagenes/N107quierollevarlelagloria.jpg', audio: 'Audios/.mp3' },
+        { id: 108, name: 'N108 Hoy he llegado a tu casa', image: 'Imagenes/N108hoyhellegadoatucasa.jpg', audio: 'Audios/.mp3' },
+        { id: 109, name: 'N109 La vara de Aarón', image: 'Imagenes/N109lavaradeaaron.jpg', audio: 'Audios/.mp3' },
+        { id: 110, name: 'N110 Que negra noche', image: 'Imagenes/N110quenegranoche.jpg', audio: 'Audios/.mp3' },
+        { id: 111, name: 'N111 Siempre camine', image: 'Imagenes/N111siemprecamine.jpg', audio: 'Audios/.mp3' },
+        { id: 112, name: 'N112 Yo vencere', image: 'Imagenes/N112yovencere.jpg', audio: 'Audios/.mp3' },
+
 
 
         // Agrega más archivos multimedia según sea necesario
